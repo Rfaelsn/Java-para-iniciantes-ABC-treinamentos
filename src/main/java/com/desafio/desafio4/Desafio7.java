@@ -16,12 +16,13 @@ public class Desafio7 {
                 if ((i == 0) && (j==0)) {
                     maiorValor = verific;
                     menorValor = maiorValor;
-                }
-                if(verific > maiorValor) {
+                    
+                }else if(verific > maiorValor) {
                     maiorValor = verific;
-                }
-                if (verific < menorValor) {
+
+                }else if (verific < menorValor) {
                     menorValor = verific;
+
                 }
 
                 matriz[i][j] = verific;

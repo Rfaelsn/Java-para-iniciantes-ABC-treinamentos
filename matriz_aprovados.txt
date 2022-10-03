@@ -1,0 +1,21 @@
+---------Lista Aprovados---------
+Aluno: Rafael
+1º nota: 10.0
+2º nota: 10.0
+3º nota: 10.0
+4º nota: 10.0
+Media: 10.0
+Frequência: 80
+Situação: Aprovado
+
+
+Aluno: Rodrigo
+1º nota: 10.0
+2º nota: 10.0
+3º nota: 10.0
+4º nota: 10.0
+Media: 10.0
+Frequência: 100
+Situação: Aprovado
+
+

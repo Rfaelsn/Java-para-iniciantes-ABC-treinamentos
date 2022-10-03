@@ -1,0 +1,11 @@
+---------Lista Aprovados---------
+Aluno: Hugo
+1º nota: 1.0
+2º nota: 1.0
+3º nota: 1.0
+4º nota: 1.0
+Media: 1.0
+Frequência: 2
+Situação: Reprovado
+
+
